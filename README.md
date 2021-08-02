@@ -1,4 +1,4 @@
-# Glad you've arrived, welcome. Get to me know me
+# Glad you've arrived, welcome. Get to me know me better
 * Name: Firdaus H. Salim
 * Age|Gender: 20 years|F
 * Short Bio: 
