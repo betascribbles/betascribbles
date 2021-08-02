@@ -13,8 +13,8 @@
   * [Medium.com](https://betascribbles.medium.com/) @betascribbles
   * Hashnode
 ---
-* ⚡ Fun fact: I read hundreds of books every year. I enjoy writing code everyday and helping others solve bugs.
-* 💬 Ask me about reading, writing,coding, motivation; I'll have a lot of answers for you.
+* ⚡ Fun fact: I read hundreds of books every year. I enjoy writing code every day and helping others solve bugs.
+* 💬 Ask me about reading, writing, coding, motivation; I'll have a lot of answers for you.
 * 📫 How to reach me:
   - [Twitter](https://twitter.com/BetaScribbles)
   - [Linkedin](https://www.linkedin.com/in/firdaus-hassan-73589118b/)
