@@ -8,7 +8,7 @@
   - Founder of [Cartoon Ink Writers' Network](https://sites.google.com/view/cartoon-ink-writers-network/home) a virtual writers' community.
   - Currently doing a Software Engineering program at [Holberton School](https://www.holbertonschool.com/), facilitated by [alx](https://www.alxafrica.com/software/).
   - Learning computer programming full-time. Soon-to-be the best software engineer that I can be.
-  - Started my first round of [#100DaysOfCode](https://github.com/betascribbles/100-days-of-code) on Monday 2nd August 2021.
+  - Started my first round of [#100DaysOfCode](https://github.com/betascribbles/100DaysOfCode) on Monday 2nd August 2021.
 * I write articles about the **The art of reading|writing|programming** in: 
   * [Medium.com](https://betascribbles.medium.com/) @betascribbles
   * Hashnode
