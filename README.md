@@ -1,4 +1,4 @@
-<img src="https://github.com/betascribbles/betascribbles/blob/main/banner.png" />
+<img src="https://github.com/betascribbles/betascribbles/blob/main/ban.png" />
 
 ### Glad you're here!
 * Name: Firdaus H. Salim (Beta Scribbles)
