@@ -1,7 +1,7 @@
 <img src="https://github.com/betascribbles/betascribbles/blob/main/ban.png" />
 
 ### Glad you're here!
-* Name: Firdaus H. Salim (Beta Scribbles)
+* Name: Firdaus H. Salim (Penname: Beta Scribbles)
 * Age|Gender: 20 years|F
 * About me: 
   - Graduate of **Computing and Information Technology** at **Rifkins College**, Mombasa: Kenya.
