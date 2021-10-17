@@ -15,7 +15,7 @@
   * [Medium.com](https://betascribbles.medium.com/) @betascribbles
  
 ---
-* ⚡ Fun fact: I read so many books every year. I enjoy writing code every day and helping others solve bugs
+* ⚡ Fun fact: I read so many books. I enjoy writing code every day and helping others solve bugs
 * 💬 Ask me about reading, writing, coding, motivation; I'll have a lot of answers for you.
 * 📫 How to reach me:
   - [My link tree](https://linktr.ee/firdaus_h_salim)
