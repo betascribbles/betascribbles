@@ -2,20 +2,18 @@
 
 ### Glad you're here!
 * Name: Firdaus H. Salim (Penname: Beta Scribbles)
-* Age|Gender: 20 years|F
 * About me: 
   - Graduate of **Computing and Information Technology** at **Rifkins College**, Mombasa: Kenya.
   - A writer by interest. Author of [Of Scattered Tears](https://www.amazon.com/Scattered-Tears-Heartbreak-Heals/dp/B092P9NQTP); a poetry anothology (available in Amazon).
   - Loves to read lots of books. Meet her on [Goodreads here](https://www.goodreads.com/author/show/21309619.Firdaus_H_Salim)
-  - Founder of [Cartoon Ink Writers' Network](https://sites.google.com/view/cartoon-ink-writers-network/home) a virtual writers' community.
   - Currently doing a Software Engineering program at [Holberton School](https://www.holbertonschool.com/), facilitated by [alx](https://www.alxafrica.com/software/).
   - Learning computer programming full-time. Soon-to-be the best software engineer that I can be.
-  - Started my first round of [#100DaysOfCode](https://github.com/betascribbles/100DaysOfCode) on Monday 2nd August 2021.
-* I write articles about the **The art of reading|writing|programming** in: 
-  * [Medium.com](https://betascribbles.medium.com/) @betascribbles
+* Read my articles: 
+  * Non-technical content in[Medium](https://betascribbles.medium.com/) @betascribbles
+  * Technical content in [Hashnode](https://betascribbles.hashnode.dev/) @betascribbles
  
 ---
-* ⚡ Fun fact: I read so many books. I enjoy writing code every day and helping others solve bugs
+* ⚡ Fun fact: I read so many books. I enjoy writing code every day and helping others solve puzzles
 * 💬 Ask me about reading, writing, coding, motivation; I'll have a lot of answers for you.
 * 📫 How to reach me:
   - [My link tree](https://linktr.ee/firdaus_h_salim)
