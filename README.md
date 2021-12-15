@@ -28,4 +28,4 @@
 </div>
 
 [twitter]: https://twitter.com/BetaScribbles
-[linkedin]: https://www.linkedin.com/in/firdaus-hassan-73589118b/
+[linkedin]: https://www.linkedin.com/in/firdaus-h-salim-73589118b/
