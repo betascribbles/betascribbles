@@ -1,31 +1,46 @@
 <img src="https://github.com/betascribbles/betascribbles/blob/main/ban.png" />
 
-### Glad you're here!
+<a href="https://twitter.com/BetaScribbles">
+  <img align="left" alt="BetaScribbles | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/">
+  <img align="left" alt="Firdaus' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> <br/>
+
 * Name: Firdaus H. Salim (Penname: Beta Scribbles)
 * About me: 
-  - Graduate of **Computing and Information Technology** at **Rifkins College**, Mombasa: Kenya.
+  - SOftware Engineer at [ALX](https://www.alxafrica.com/)
   - A writer by interest. Author of [Of Scattered Tears](https://www.amazon.com/Scattered-Tears-Heartbreak-Heals/dp/B092P9NQTP); a poetry anothology (available in Amazon).
   - Loves to read lots of books. Meet her on [Goodreads here](https://www.goodreads.com/author/show/21309619.Firdaus_H_Salim)
-  - Currently doing a Software Engineering program at [Holberton School](https://www.holbertonschool.com/), facilitated by [alx](https://www.alxafrica.com/software/).
-  - Learning computer programming full-time. Soon-to-be the best software engineer that I can be.
-* Read my articles: 
-  * Non-technical content in[Medium](https://betascribbles.medium.com/) @betascribbles
+* Cool stuff: 
   * Technical content in [Hashnode](https://betascribbles.hashnode.dev/) @betascribbles
- 
----
-* ⚡ Fun fact: I read so many books. I enjoy writing code every day and helping others solve puzzles
-* 💬 Ask me about reading, writing, coding, motivation; I'll have a lot of answers for you.
-* 📫 How to reach me:
-  - [My link tree](https://linktr.ee/firdaus_h_salim)
-  
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  * Non-technical content in [Medium](https://betascribbles.medium.com/) @betascribbles
+  * [My link tree](https://linktr.ee/firdaus_h_salim)
 
-## </br>
 
-<div align="center">
-<a href="https://github.com/betascribbles"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=betascribbles&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,d600ff,bd00ff,001eff,00b8ff&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,00b8ff,00ff9f,00ff9f&theme=graywhite" /></a>
-</div>
+Ask me anything [here](https://github.com/betascribbles/betascribbles/issues?q=is%3Aissue+is%3Aopen)
 
-[twitter]: https://twitter.com/BetaScribbles
-[linkedin]: https://www.linkedin.com/in/firdaus-h-salim-73589118b/
+<h3>Technologies</h3>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+</a>
+<p> 
+  <a href="https://twitter.com/BetaScribbles" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://betascribbles.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
