@@ -34,10 +34,10 @@ Ask me anything [here](https://github.com/betascribbles/betascribbles/issues?q=i
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
 </a>
 <p> 
   <a href="https://twitter.com/BetaScribbles" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
