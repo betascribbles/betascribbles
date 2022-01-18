@@ -2,7 +2,7 @@
 
 * Name: Firdaus H. Salim (Penname: Beta Scribbles)
 * About me: 
-  - SOftware Engineer at [ALX](https://www.alxafrica.com/)
+  - Software Engineer at [ALX](https://www.alxafrica.com/)
   - A writer by interest. Author of [Of Scattered Tears](https://www.amazon.com/Scattered-Tears-Heartbreak-Heals/dp/B092P9NQTP); a poetry anothology (available in Amazon).
   - Loves to read lots of books. Meet her on [Goodreads here](https://www.goodreads.com/author/show/21309619.Firdaus_H_Salim)
 * Cool stuff: 
