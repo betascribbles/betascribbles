@@ -1,12 +1,5 @@
 <img src="https://github.com/betascribbles/betascribbles/blob/main/ban.png" />
 
-<a href="https://twitter.com/BetaScribbles">
-  <img align="left" alt="BetaScribbles | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/">
-  <img align="left" alt="Firdaus' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <br/>
-
 * Name: Firdaus H. Salim (Penname: Beta Scribbles)
 * About me: 
   - SOftware Engineer at [ALX](https://www.alxafrica.com/)
@@ -34,10 +27,10 @@ Ask me anything [here](https://github.com/betascribbles/betascribbles/issues?q=i
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
 </a>
 <p> 
   <a href="https://twitter.com/BetaScribbles" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
