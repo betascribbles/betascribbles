@@ -1,7 +1,7 @@
 <img src="https://github.com/betascribbles/betascribbles/blob/main/banner.png" />
 
-My Name is [Firdaus](https://linktr.ee/firdaus_h_salim). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid [writer](https://www.amazon.com/Scattered-Tears-Heartbreak-Heals/dp/B092P9NQTP) | [reader](https://www.goodreads.com/author/show/21309619.Firdaus_H_Salim) exploring information technology advancements and personal development through books. Writes technical articles in Hashnode ([@BetaScribbles](https://betascribbles.hashnode.dev/)) and non-technical articles in Medium ([@BetaScribbles](https://betascribbles.medium.com/))
-Ask me anything [here](https://github.com/betascribbles/betascribbles/issues?q=is%3Aissue+is%3Aopen)
+My Name is [Firdaus](https://linktr.ee/firdaus_h_salim). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid [writer](https://www.amazon.com/Scattered-Tears-Heartbreak-Heals/dp/B092P9NQTP) | [reader](https://www.goodreads.com/author/show/21309619.Firdaus_H_Salim) exploring information technology advancements and personal development through books. Writes technical articles in Hashnode ([@BetaScribbles](https://betascribbles.hashnode.dev/)) and non-technical articles in Medium ([@BetaScribbles](https://betascribbles.medium.com/)). <br/>
+Ask me anything [here].(https://github.com/betascribbles/betascribbles/issues?q=is%3Aissue+is%3Aopen)
 
 <div align="center">
 <p>
